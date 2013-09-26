@@ -16,22 +16,21 @@ A brief on the project goals, customer impact, stakeholders, etc.
 
 Specs
 -----------
-https://interact.temboo.corp/trac/wiki/Specifications/SDK/Versioning/NativeLibraries
+[Tech Spec](https://interact.temboo.corp/trac/wiki/Specifications/SDK/Versioning/NativeLibraries)
 
 Logistics
 -----------
 
-Project Cluster
+### Project Cluster
 TBD 
 
-Project Eng Site
+### Project Eng Site
 TBD
 
-Milestones
-* Github Issues Milestone A
-* Github Issues Milestone A
+### Milestones
+* [Project Milestone A](./issues?milestone=1&state=open)
 
-Implementors
+### Implementors
 Cormac, Monty, Matthew
 
 Checklist
